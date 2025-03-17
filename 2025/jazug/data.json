@@ -1,0 +1,35 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "a-yui"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Japan Azure User Group",
+    "Country": "Japan",
+    "Url": "https://connpass.com/event/348980/",
+    "SessionizeApiId": null,
+    "SessionizeEventName": null,
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "Global Azure 2024 Japan",
+      "File": "jazug_ga2025.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Microsoft Japan",
+        "StartDate": "2025-05-10",
+        "EndDate": "2025-05-10",
+        "Address": "Shinagawa Grand Central Tower",
+        "Latitude": 35.626619,
+        "Longitude": 139.7385796
+      }
+    ]
+  }
+}
